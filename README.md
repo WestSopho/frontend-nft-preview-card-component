@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://github.com/WestSopho/frontend-qr-code-component)
-- Live Site URL: [link](https://westsopho.github.io/frontend-qr-code-component)
+- Solution URL: [Link](https://github.com/WestSopho/frontend-nft-preview-card-component)
+- Live Site URL: [link](https://westsopho.github.io/frontend-nft-preview-card-component)
 
 ## My process
 
